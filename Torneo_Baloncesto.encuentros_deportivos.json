@@ -1,0 +1,56 @@
+[
+  {
+    "_id": 1040,
+    "Jornada": 1,
+    "Encuentro": 1,
+    "Equipos": {
+      "equipo1": "Jaguares",
+      "equipo2": "Escorpions"
+    }
+  },
+  {
+    "_id": 1041,
+    "Jornada": 1,
+    "Encuentro": 2,
+    "Equipos": {
+      "equipo1": "Lions",
+      "equipo2": "Juventus"
+    }
+  },
+  {
+    "_id": 1042,
+    "Jornada": 2,
+    "Encuentro": 3,
+    "Equipos": {
+      "equipo1": "Lions",
+      "equipo2": "Escorpions"
+    }
+  },
+  {
+    "_id": 1043,
+    "Jornada": 2,
+    "Encuentro": 4,
+    "Equipos": {
+      "equipo1": "Juventus",
+      "equipo2": "Jaguares"
+    }
+  },
+  {
+    "_id": 1044,
+    "Jornada": 3,
+    "Encuentro": 5,
+    "Equipos": {
+      "equipo1": "Lions",
+      "equipo2": "Jaguares"
+    }
+  },
+  {
+    "_id": 1045,
+    "Jornada": 3,
+    "Encuentro": 6,
+    "Equipos": {
+      "equipo1": "Juventus",
+      "equipo2": "Escorpions"
+    }
+  }
+]

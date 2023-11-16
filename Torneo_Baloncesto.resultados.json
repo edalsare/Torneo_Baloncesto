@@ -1,0 +1,86 @@
+[
+  {
+    "_id": 1050,
+    "Encuentro": 1,
+    "Ganador": {
+      "Nombre": "Jaguares",
+      "Resultado": 20
+    },
+    "Perdedor": {
+      "Nombre": "Escorpions",
+      "Resultado": 20
+    },
+    "Empate": "si",
+    "puntos": 1
+  },
+  {
+    "_id": 1051,
+    "Encuentro": 2,
+    "Ganador": {
+      "Nombre": "Lions",
+      "Resultado": 15
+    },
+    "Perdedor": {
+      "Nombre": "Juventus",
+      "Resultado": 10
+    },
+    "Empate": "no",
+    "puntos": 3
+  },
+  {
+    "_id": 1052,
+    "Encuentro": 3,
+    "Ganador": {
+      "Nombre": "Escorpions",
+      "Resultado": 30
+    },
+    "Perdedor": {
+      "Nombre": "Lions",
+      "Resultado": 28
+    },
+    "Empate": "no",
+    "puntos": 3
+  },
+  {
+    "_id": 1053,
+    "Encuentro": 4,
+    "Ganador": {
+      "Nombre": "Jaguares",
+      "Resultado": 24
+    },
+    "Perdedor": {
+      "Nombre": "Juventus",
+      "Resultado": 12
+    },
+    "Empate": "no",
+    "puntos": 3
+  },
+  {
+    "_id": 1054,
+    "Encuentro": 5,
+    "Ganador": {
+      "Nombre": "Jaguares",
+      "Resultado": 28
+    },
+    "Perdedor": {
+      "Nombre": "Lions",
+      "Resultado": 36
+    },
+    "Empate": "no",
+    "puntos": 3
+  },
+  {
+    "_id": 1055,
+    "Encuentro": 6,
+    "Ganador": {
+      "Nombre": "Escorpions",
+      "Resultado": 38
+    },
+    "Perdedor": {
+      "Nombre": "Juventus",
+      "Resultado": 35
+    },
+    "Empate": "no",
+    "puntos": 3
+  }
+]

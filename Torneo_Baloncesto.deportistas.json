@@ -1,0 +1,138 @@
+[
+  {
+    "_id": 1001,
+    "nombre_jugador": "Edison",
+    "Apellidos_jugador": "salazar Revelo",
+    "Equipo": "Jaguares",
+    "Estatura": 1.72,
+    "edad": "30"
+  },
+  {
+    "_id": 1002,
+    "nombre_jugador": "Juan",
+    "Apellidos_jugador": "Mera",
+    "Equipo": "Jaguares",
+    "Estatura": 1.6,
+    "edad": "28"
+  },
+  {
+    "_id": 1003,
+    "nombre_jugador": "Carlos",
+    "Apellidos_jugador": "Yandun",
+    "Equipo": "Jaguares",
+    "Estatura": 1.62,
+    "edad": "28"
+  },
+  {
+    "_id": 1004,
+    "nombre_jugador": "Yeferson",
+    "Apellidos_jugador": "Quenguan",
+    "Equipo": "Jaguares",
+    "Estatura": 1.7,
+    "edad": "29"
+  },
+  {
+    "_id": 1005,
+    "nombre_jugador": "Alberto",
+    "Apellidos_jugador": "Cordoba",
+    "Equipo": "Jaguares",
+    "Estatura": 1.6,
+    "edad": "30"
+  },
+  {
+    "_id": 1006,
+    "nombre_jugador": "Jhon",
+    "Apellidos_jugador": "Chingal",
+    "Equipo": "Escorpions",
+    "Estatura": 1.8,
+    "edad": "31"
+  },
+  {
+    "_id": 1007,
+    "nombre_jugador": "Cristian",
+    "Apellidos_jugador": "Cordoba",
+    "Equipo": "Escorpions",
+    "Estatura": 1.58,
+    "edad": "26"
+  },
+  {
+    "_id": 1008,
+    "nombre_jugador": "Dario",
+    "Apellidos_jugador": "Nazate",
+    "Equipo": "Escorpions",
+    "Estatura": 1.8,
+    "edad": "30"
+  },
+  {
+    "_id": 1009,
+    "nombre_jugador": "Juan",
+    "Apellidos_jugador": "Caceres",
+    "Equipo": "Escorpions",
+    "Estatura": 1.65,
+    "edad": "29"
+  },
+  {
+    "_id": 1010,
+    "nombre_jugador": "Camilo",
+    "Apellidos_jugador": "Nazamuez",
+    "Equipo": "Juventus",
+    "Estatura": 1.6,
+    "edad": "32"
+  },
+  {
+    "_id": 1011,
+    "nombre_jugador": "Andres",
+    "Apellidos_jugador": "Revelo",
+    "Equipo": "Juventus",
+    "Estatura": 1.72,
+    "edad": "24"
+  },
+  {
+    "_id": 1012,
+    "nombre_jugador": "Ernesto",
+    "Apellidos_jugador": "Patiño",
+    "Equipo": "Juventus",
+    "Estatura": 1.65,
+    "edad": "29"
+  },
+  {
+    "_id": 1013,
+    "nombre_jugador": "Frank",
+    "Apellidos_jugador": "Cuaran",
+    "Equipo": "Juventus",
+    "Estatura": 1.59,
+    "edad": "30"
+  },
+  {
+    "_id": 1014,
+    "nombre_jugador": "Camilo",
+    "Apellidos_jugador": "Andrade",
+    "Equipo": "Lions",
+    "Estatura": 1.64,
+    "edad": "25"
+  },
+  {
+    "_id": 1015,
+    "nombre_jugador": "ALex",
+    "Apellidos_jugador": "Andrade",
+    "Equipo": "Lions",
+    "Estatura": 1.8,
+    "edad": "28"
+  },
+  {
+    "_id": 1016,
+    "nombre_jugador": "Paolo",
+    "Apellidos_jugador": "Vaca",
+    "Equipo": "Lions",
+    "Estatura": 1.6,
+    "edad": "27"
+  },
+  {
+    "_id": 1017,
+    "nombre_jugador": "Manuel",
+    "Apellidos_jugador": "Solarte",
+    "Equipo": "Lions",
+    "Estatura": 1.7,
+    "edad": "31"
+  }
+]

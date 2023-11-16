@@ -1,0 +1,37 @@
+[
+  {
+    "_id": 1020,
+    "nombre_arbitro": "ALex",
+    "Apellidos_arbitro": "Perez",
+    "Estatura": 1.8,
+    "edad": "28"
+  },
+  {
+    "_id": 1021,
+    "nombre_arbitro": "Albeiro",
+    "Apellidos_arbitro": "Salazar",
+    "Estatura": 1.62,
+    "edad": "30"
+  },
+  {
+    "_id": 1022,
+    "nombre_arbitro": "Pablo",
+    "Apellidos_arbitro": "Salazar",
+    "Estatura": 1.72,
+    "edad": "35"
+  },
+  {
+    "_id": 1023,
+    "nombre_arbitro": "Victor",
+    "Apellidos_arbitro": "Lara",
+    "Estatura": 1.72,
+    "edad": "38"
+  },
+  {
+    "_id": 1024,
+    "nombre_arbitro": "Jorge",
+    "Apellidos_arbitro": "Tapia",
+    "Estatura": 1.65,
+    "edad": "32"
+  }
+]
