@@ -1,0 +1,45 @@
+>cluster=new ShardingTest ({shards: 3, chunksize:1})
+db = (new Mongo("localhost:20006")).getDB("Torneo_Baloncesto")
+
+for (i= 0; i < 50000; i++) {db.arbitros.insert({_id : i, nombre_arbitro : "nombre_arbitro"+i, Apellidos_arbitro: "Apellidos_arbitro" +i, Estatura: i, edad: "edad" +i });
+}
+
+for (i= 0; i < 10000; i++) {db.entrenadores.insert({_id : i, nombre_entrenador : "nombre_entrenador"+i, Apellidos_entrenador: "Apellidos_entrenador" +i, Equipo: "Equipo" +i, Estatura: i, edad: "edad" +i });
+}
+
+db.entrenadores.count()
+db.arbitros.count()
+
+shard1 = new Mongo("localhost:20000")
+shard1DB = shard1.getDB("Torneo_Baloncesto")
+shard1DB.arbitros.count()
+shard1DB.entrenadores.count()
+
+shard2 = new Mongo("localhost:20001")
+shard2DB = shard2.getDB("Torneo_Baloncesto")
+shard2DB.arbitros.count()
+shard2DB.entrenadores.count()
+
+shard3 = new Mongo("localhost:20002")
+shard3DB = shard3.getDB("Torneo_Baloncesto")
+shard3DB.arbitros.count()
+shard3DB.entrenadores.count()
+
+shard1 = new Mongo("localhost:20006")
+sh.status()
+
+sh.enableSharding("Torneo_Baloncesto")
+
+db.entrenadores.ensureIndex({_id : 1})
+
+sh.shardCollection("Torneo_Baloncesto.entrenadores", {_id: 1})
+
+sh.getBalancerState()
+
+sh.setBalancerState(true)
+sh.getBalancerState()
+sh.isBalancerRunning()
+
+
+
+
